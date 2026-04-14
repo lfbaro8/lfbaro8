@@ -36,6 +36,7 @@ Machine Learning enthusiast focused on NLP, embeddings and RAG systems 🚀
 ![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge)
 ![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge)
 ![NLTK](https://img.shields.io/badge/NLTK-154F3B?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-000000?style=for-the-badge)
 
 ---
 
